@@ -1,0 +1,21 @@
+{
+  "name": "webpacknodeserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.39.2",
+    "webpack-dev-middleware": "^3.7.0"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "webpack-hot-middleware": "^2.25.0"
+  }
+}
